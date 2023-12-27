@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jospin kahereni
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning Spirng and Spring Boot
+- 🌱 I’m currently learning Spring and Spring Boot
 - 💞️ I’m looking to collaborate on Jetpack Compose, Kotlin, Flutter, Java
 - 📫 How to reach me ...
 
