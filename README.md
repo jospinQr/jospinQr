@@ -30,7 +30,7 @@
 
 - ✉️ **Email** : joekahereni25@gmail.com  
 - 🌐 **LinkedIn** : [linkedin.com/in/jospin-kahereni](https://linkedin.com/in/jospin-kahereni)
-- 🖥️ **Portfolio** : [bientôt disponible...](https://jospintheandroid.vercel.app/)
+- 🖥️ **Portfolio** : [jospin_the_android](https://jospintheandroid.vercel.app/)
 
 ---
 
